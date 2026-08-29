@@ -10,7 +10,7 @@ CS50x is Harvard's Introduction to Computer Science course, covering fundamental
 
 Below are the projects included in this repository:
 
-- **Casey Chaser - 2 Levels** - A Scratch project featuring a game with two levels
+- **Casey Chaser - 2 Levels** -  It's a Scratch game with two levels of difficulty. You use simple arrow controls to guide Doggy to Casey, with different sounds for hitting walls, hitting cats, or reaching Casey. Each time you reach Casey, you get one point. When you reach 5 points, the game enters the second difficulty level: the cats go faster and change colors.
 
 ## Getting Started
 
@@ -36,7 +36,6 @@ To explore these projects:
 ## Technologies & Tools
 
 - Scratch
-- *Add other languages/tools as you add more projects*
 
 ## Course Information
 
@@ -50,7 +49,7 @@ This project is part of the CS50x course curriculum.
 
 ## Contact
 
-Feel free to reach out if you have any questions about these projects!
+Feel free to reach out if you have any questions and/or tips about these projects!
 
 ---
 
